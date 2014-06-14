@@ -5,9 +5,8 @@
 git clone https://github.com/Youmoo/spring-mvc-with-angularJS
 cd spring-mvc-with-angularJS//spring-angular
 mvn clean install jetty:run
-
 ```
-open your browser and goto http://localhost:8080/user/list.do
+Open your browser and goto http://localhost:8080/user/list.do
 
 ### 注意代码的分层
 - java部分
